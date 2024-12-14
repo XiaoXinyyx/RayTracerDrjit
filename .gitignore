@@ -1,0 +1,8 @@
+.VSCodeCounter/*
+.vscode/*
+
+weekend_tracer/__pycache__/*
+weekend_tracer/.VSCodeCounter/*
+
+outputs/cornell_box_ad/*
+outputs/cornell_box_GI_ad/*
