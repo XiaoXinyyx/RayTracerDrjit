@@ -1,6 +1,6 @@
 This is a simple ray tracer implemented in python.
 
-References:
+# References:
 Ray tracing in one weekend
 https://github.com/RayTracing/raytracing.github.io
 
